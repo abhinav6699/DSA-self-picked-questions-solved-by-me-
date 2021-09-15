@@ -4,6 +4,7 @@ These are the questions solved just to have some idea about the topics of dsa.
 
 BASIC DSA QUESTIONS-
 
-HASHING-
-[Two SUM](https://leetcode.com/problems/two-sum/)</br>
+HASHING</br>
+[Two SUM](https://leetcode.com/problems/two-sum/)\
 [4 SUM](https://leetcode.com/problems/4sum/)
+
