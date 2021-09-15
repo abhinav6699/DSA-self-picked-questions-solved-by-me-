@@ -6,3 +6,4 @@ BASIC DSA QUESTIONS-
 
 HASHING
 [Two SUM](https://leetcode.com/problems/two-sum/)
+[4 SUM](https://leetcode.com/problems/4sum/)
