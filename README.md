@@ -18,6 +18,10 @@ Linked List\
 [Merge Two Sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)\
 [Remove the Nth Node in the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\
 [Delete a given Node, when only Node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/)\
+[Reverse a Linked List in K groups](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)\
+[Check if a linked list is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/submissions/)\
+[Detect a cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/)
+
 
 
 
