@@ -20,7 +20,13 @@ Linked List\
 [Delete a given Node, when only Node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/)\
 [Reverse a Linked List in K groups](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)\
 [Check if a linked list is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/submissions/)\
-[Detect a cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/)
+[Detect a cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/)\
+[Flattening of linked list](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)\
+[Rotate Linked List](https://leetcode.com/problems/rotate-list/submissions/)\
+[Detect the node where Cycle Begins]()\
+
+Two Pointers
+
 
 
 
