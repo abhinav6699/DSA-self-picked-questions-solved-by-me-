@@ -23,7 +23,7 @@ Linked List\
 [Detect a cycle in a linked list](https://leetcode.com/problems/linked-list-cycle/)\
 [Flattening of linked list](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)\
 [Rotate Linked List](https://leetcode.com/problems/rotate-list/submissions/)\
-[Detect the node where Cycle Begins]()\
+[Detect the node where Cycle Begins](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)\
 
 Two Pointers
 
