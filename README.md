@@ -24,8 +24,16 @@ Linked List\
 [Flattening of linked list](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)\
 [Rotate Linked List](https://leetcode.com/problems/rotate-list/submissions/)\
 [Detect the node where Cycle Begins](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)\
+[Cloning of Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/)\
 
 Two Pointers
+[Three SUM](https://leetcode.com/problems/3sum/)\
+[Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
+[Trapping Rainwater]()\
+[Remove Duplicates from SOrted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)\
+
+Greedy
+
 
 
 
