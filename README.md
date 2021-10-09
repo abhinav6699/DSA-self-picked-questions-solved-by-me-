@@ -29,7 +29,7 @@ Linked List\
 Two Pointers\
 [Three SUM](https://leetcode.com/problems/3sum/)\
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
-[Trapping Rainwater]()\
+[Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/submissions/)\
 [Remove Duplicates from SOrted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)\
 \
 Greedy
