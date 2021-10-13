@@ -4,6 +4,7 @@ These are the questions solved just to have some idea about the topics of dsa.
 
 BASIC DSA QUESTIONS-
 
+
 HASHING\
 [Two SUM](https://leetcode.com/problems/two-sum/)\
 [4 SUM](https://leetcode.com/problems/4sum/)
@@ -31,6 +32,7 @@ Two Pointers\
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
 [Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/submissions/)\
 [Remove Duplicates from SOrted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)\
+[Find the duplicates in an array](https://leetcode.com/problems/find-the-duplicate-number/submissions/)\
 \
 Greedy
 
