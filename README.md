@@ -34,7 +34,19 @@ Two Pointers\
 [Remove Duplicates from SOrted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)\
 [Find the duplicates in an array](https://leetcode.com/problems/find-the-duplicate-number/submissions/)\
 \
-Greedy
+Greedy\
+[N meetings in a room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)\
+[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
+[Fraction Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)\
+[Job Sequencing](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)\
+[Greedy Algorithm to find minimum no. of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)\
+\
+ReCurSSion\
+
+Trees\
+\
+Binary Trees\
+[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 
 
 
