@@ -42,6 +42,7 @@ Greedy\
 [Greedy Algorithm to find minimum no. of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)\
 \
 ReCurSSion\
+[Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
 
 Trees\
 \
