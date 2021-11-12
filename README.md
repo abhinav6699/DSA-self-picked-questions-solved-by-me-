@@ -43,6 +43,7 @@ Greedy\
 \
 ReCurSSion\
 [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
+[Subset 2](https://leetcode.com/problems/subsets-ii/)\
 
 Trees\
 \
