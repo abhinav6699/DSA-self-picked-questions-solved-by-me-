@@ -61,7 +61,7 @@ Binary Trees\
 [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 
 String\
-[Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)/
+[Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)
 
 
