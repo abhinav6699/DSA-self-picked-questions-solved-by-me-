@@ -4,6 +4,13 @@ These are the questions solved just to have some idea about the topics of dsa.
 
 BASIC DSA QUESTIONS-
 
+ARRAY\
+\
+[Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
+
+2D\
+\
+[Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 HASHING\
 [Two SUM](https://leetcode.com/problems/two-sum/)\
@@ -40,6 +47,7 @@ Greedy\
 [Fraction Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)\
 [Job Sequencing](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)\
 [Greedy Algorithm to find minimum no. of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)\
+[minimum cost to connect stikcs](https://leetcode.com/problems/minimum-cost-to-connect-sticks/submissions/)\
 \
 ReCurSSion\
 [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
@@ -53,7 +61,8 @@ Binary Trees\
 [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 
 String\
-[Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)
+[Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)/
+[Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)
 
 
 
