@@ -7,6 +7,8 @@ BASIC DSA QUESTIONS-
 ARRAY\
 \
 [Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
+[pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
+
 
 2D\
 \
@@ -62,7 +64,8 @@ Binary Trees\
 
 String\
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
-[Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)
+[Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
+[search-suggestion-system](https://leetcode.com/problems/search-suggestions-system/submissions/)
 
 
 
