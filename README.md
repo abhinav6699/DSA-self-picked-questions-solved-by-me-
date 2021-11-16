@@ -35,6 +35,7 @@ Linked List\
 [Rotate Linked List](https://leetcode.com/problems/rotate-list/submissions/)\
 [Detect the node where Cycle Begins](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)\
 [Cloning of Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/)\
+[LRU cache](https://leetcode.com/problems/lru-cache/submissions/)
 \
 Two Pointers\
 [Three SUM](https://leetcode.com/problems/3sum/)\
