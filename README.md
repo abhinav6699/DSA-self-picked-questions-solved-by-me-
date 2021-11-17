@@ -8,6 +8,7 @@ ARRAY\
 \
 [Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
 [pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
+[Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)\
 
 
 2D\
