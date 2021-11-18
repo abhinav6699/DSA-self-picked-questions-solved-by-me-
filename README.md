@@ -69,6 +69,10 @@ String\
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
 [search-suggestion-system](https://leetcode.com/problems/search-suggestions-system/submissions/)
 
+STack and Queue\
+[Paranthesis check](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)\
+
+
 
 
 
