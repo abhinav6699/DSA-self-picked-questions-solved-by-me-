@@ -62,8 +62,7 @@ ReCurSSion\
 Trees\
 \
 Binary Trees\
-[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
-[Binary tree zigzag](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)\
+[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
 
 String\
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
@@ -72,6 +71,7 @@ String\
 
 STack and Queue\
 [Paranthesis check](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)\
+[LRU](https://leetcode.com/problems/lru-cache/)\
 
 
 
