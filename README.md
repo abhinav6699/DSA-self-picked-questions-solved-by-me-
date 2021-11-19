@@ -72,6 +72,7 @@ String\
 STack and Queue\
 [Paranthesis check](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)\
 [LRU](https://leetcode.com/problems/lru-cache/)\
+[Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
 
 
 
