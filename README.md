@@ -62,7 +62,8 @@ ReCurSSion\
 Trees\
 \
 Binary Trees\
-[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
+[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
+[Binary tree zigzag](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)\
 
 String\
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
