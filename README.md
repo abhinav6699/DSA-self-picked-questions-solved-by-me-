@@ -75,7 +75,8 @@ STack and Queue\
 [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
 \
 Graph\
-[number of provinces](https://leetcode.com/problems/number-of-provinces/)
+[number of provinces](https://leetcode.com/problems/number-of-provinces/)\
+[number of islands](https://leetcode.com/problems/number-of-islands/)\
 
 
 
