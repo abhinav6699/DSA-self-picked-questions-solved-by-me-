@@ -62,7 +62,8 @@ ReCurSSion\
 Trees\
 \
 Binary Trees\
-[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)
+[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
+[populating next right pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)\
 
 String\
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
