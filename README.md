@@ -38,7 +38,8 @@ Linked List\
 [Cloning of Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/)\
 [LRU cache](https://leetcode.com/problems/lru-cache/submissions/)
 \
-Two Pointers\
+Two Pointers]\
+\
 [Three SUM](https://leetcode.com/problems/3sum/)\
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
 [Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/submissions/)\
@@ -46,6 +47,7 @@ Two Pointers\
 [Find the duplicates in an array](https://leetcode.com/problems/find-the-duplicate-number/submissions/)\
 \
 Greedy\
+\
 [N meetings in a room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)\
 [Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
 [Fraction Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)\
