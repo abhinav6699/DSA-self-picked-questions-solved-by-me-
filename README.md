@@ -78,7 +78,8 @@ String\
 STack and Queue\
 [Paranthesis check](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)\
 [LRU](https://leetcode.com/problems/lru-cache/)\
-[Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+[Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)\
+[Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
 \
 Graph\
 [number of provinces](https://leetcode.com/problems/number-of-provinces/)\
