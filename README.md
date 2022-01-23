@@ -66,8 +66,14 @@ Trees\
 \
 Binary Trees\
 [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
+[Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)\
+[Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/)\
 [populating next right pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)\
 [binary tree BFS or level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)\
+[left view of binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)\
+[bottom view of binary tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#)\
+[Top view of binary tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)\
+
 
 
 String\
