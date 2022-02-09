@@ -39,7 +39,7 @@ Linked List\
 [Add two numbers](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1#)\
 [LRU cache](https://leetcode.com/problems/lru-cache/submissions/)
 \
-Two Pointers]\
+Two Pointers\
 \
 [Three SUM](https://leetcode.com/problems/3sum/)\
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
@@ -81,9 +81,8 @@ Binary Trees\
 [Same tree](https://leetcode.com/problems/same-tree/)\
 [Root to node path](https://www.interviewbit.com/problems/path-to-given-node/)\
 [Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)\
-[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-
-
+[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)\
+[Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
 
 
 String\
