@@ -78,7 +78,8 @@ Binary Trees\
 [Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/)\
 [Diameter of a tree](https://leetcode.com/problems/diameter-of-binary-tree/)\
 [Check if given tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/submissions/)\
-[Same tree](https://leetcode.com/problems/same-tree/)
+[Same tree](https://leetcode.com/problems/same-tree/)\
+[Root to node path](https://www.interviewbit.com/problems/path-to-given-node/)
 
 
 
