@@ -80,7 +80,8 @@ Binary Trees\
 [Check if given tree is height balanced or not](https://leetcode.com/problems/balanced-binary-tree/submissions/)\
 [Same tree](https://leetcode.com/problems/same-tree/)\
 [Root to node path](https://www.interviewbit.com/problems/path-to-given-node/)\
-[Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+[Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)\
+[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 
 
