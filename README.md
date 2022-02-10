@@ -82,7 +82,10 @@ Binary Trees\
 [Root to node path](https://www.interviewbit.com/problems/path-to-given-node/)\
 [Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)\
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)\
-[Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
+[Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
+Binary Search Trees\
+\
+[Search a key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
 
 
 String\
