@@ -85,7 +85,8 @@ Binary Trees\
 [Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
 Binary Search Trees\
 \
-[Search a key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)
+[Search a key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)\
+[Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 
 String\
