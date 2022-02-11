@@ -90,7 +90,8 @@ Binary Search Trees\
 [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)\
 [LCA of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)\
 [inorder BST predecessor and successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)\
-[Floor in a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=0)
+[Floor in a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=0)\
+[Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)
 
 
 String\
