@@ -108,8 +108,10 @@ STack and Queue\
 Graph\
 \
 [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)\
+[BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)\
 [number of provinces](https://leetcode.com/problems/number-of-provinces/)\
 [number of islands](https://leetcode.com/problems/number-of-islands/)\
+
 \
 Binary Search\
 \
