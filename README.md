@@ -106,6 +106,8 @@ STack and Queue\
 [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
 \
 Graph\
+\
+[DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)\
 [number of provinces](https://leetcode.com/problems/number-of-provinces/)\
 [number of islands](https://leetcode.com/problems/number-of-islands/)\
 \
