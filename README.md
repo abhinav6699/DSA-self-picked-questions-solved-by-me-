@@ -111,7 +111,8 @@ Graph\
 [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)\
 [number of provinces](https://leetcode.com/problems/number-of-provinces/)\
 [number of islands](https://leetcode.com/problems/number-of-islands/)\
-[Detect a cycle in directed graph using bfs](https://leetcode.com/problems/course-schedule/)
+[Detect a cycle in directed graph using bfs](https://leetcode.com/problems/course-schedule/)\
+[topological sort in DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
 
 \
 Binary Search\
