@@ -113,7 +113,7 @@ Graph\
 [number of islands](https://leetcode.com/problems/number-of-islands/)\
 [Bipartite graph in dfs and bfs](https://leetcode.com/problems/is-graph-bipartite/)\
 [Detect a cycle in directed graph using bfs](https://leetcode.com/problems/course-schedule/)\
-[topological sort in DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
+[topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
 
 \
 Binary Search\
