@@ -60,6 +60,7 @@ ReCurSSion\
 [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
 [Subset 2](https://leetcode.com/problems/subsets-ii/)\
 [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/)\
+[Basic Calculater](https://leetcode.com/problems/basic-calculator/)
 
 
 Trees\
