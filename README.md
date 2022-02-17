@@ -28,6 +28,7 @@ Linked List\
 [Find Middle of Linked list](https://leetcode.com/problems/middle-of-the-linked-list/submissions/)\
 [Merge Two Sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)\
 [Remove the Nth Node in the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\
+[Delete N nodes after M nodes](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)\
 [Delete a given Node, when only Node is given](https://leetcode.com/problems/delete-node-in-a-linked-list/)\
 [Reverse a Linked List in K groups](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)\
 [Check if a linked list is palindrome or not](https://leetcode.com/problems/palindrome-linked-list/submissions/)\
