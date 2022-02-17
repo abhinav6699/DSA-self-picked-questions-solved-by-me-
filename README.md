@@ -116,7 +116,8 @@ Graph\
 [number of islands](https://leetcode.com/problems/number-of-islands/)\
 [Bipartite graph in dfs and bfs](https://leetcode.com/problems/is-graph-bipartite/)\
 [Detect a cycle in directed graph using bfs and dfs](https://leetcode.com/problems/course-schedule/)\
-[topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
+[topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)\
+[Rotting oranges](https://leetcode.com/problems/rotting-oranges/)
 
 \
 Binary Search\
