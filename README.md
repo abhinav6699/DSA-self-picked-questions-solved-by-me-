@@ -86,6 +86,7 @@ Binary Trees\
 [Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)\
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)\
 [Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
+[Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)
 \
 Binary Search Trees\
 \
