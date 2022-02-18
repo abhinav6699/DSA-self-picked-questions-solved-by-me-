@@ -125,6 +125,7 @@ Graph\
 Binary Search\
 \
 Dynamic Programming\
+[maximal square](https://leetcode.com/problems/maximal-square/)
 
 
 
