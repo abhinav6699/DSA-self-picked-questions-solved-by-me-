@@ -21,8 +21,9 @@ HASHING
 [4 SUM](https://leetcode.com/problems/4sum/)\
 [Longest Substring without Repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
 [COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
-\
-Linked List\
+
+Linked List
+
 [Reverse a linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)\
 [Find Middle of Linked list](https://leetcode.com/problems/middle-of-the-linked-list/submissions/)\
 [Merge Two Sorted Linked List](https://leetcode.com/problems/merge-two-sorted-lists/)\
@@ -38,34 +39,36 @@ Linked List\
 [Cloning of Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/)\
 [Add two numbers](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1#)\
 [LRU cache](https://leetcode.com/problems/lru-cache/submissions/)
-\
-Two Pointers\
-\
+
+Two Pointers
+
 [Three SUM](https://leetcode.com/problems/3sum/)\
 [Max consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/)\
 [Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/submissions/)\
 [Remove Duplicates from SOrted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)\
 [Find the duplicates in an array](https://leetcode.com/problems/find-the-duplicate-number/submissions/)\
-\
-Greedy\
-\
+
+Greedy
+
 [N meetings in a room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)\
 [Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
 [Fraction Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)\
 [Job Sequencing](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)\
 [Greedy Algorithm to find minimum no. of Coins](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)\
 [minimum cost to connect stikcs](https://leetcode.com/problems/minimum-cost-to-connect-sticks/submissions/)\
-\
-ReCurSSion\
+
+ReCurSSion
+
 [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
 [Subset 2](https://leetcode.com/problems/subsets-ii/)\
 [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/)\
 [Basic Calculater](https://leetcode.com/problems/basic-calculator/)\
 [Concaenated words](https://leetcode.com/problems/concatenated-words/)
-\
-Trees\
-\
-Binary Trees\
+
+Trees
+
+(i)Binary Trees
+
 [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
 [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)\
 [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/)\
@@ -86,30 +89,32 @@ Binary Trees\
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)\
 [Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
 [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)
-\
-Binary Search Trees\
-\
+
+(ii)Binary Search Trees\
+
 [Search a key in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/)\
 [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)\
 [LCA of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)\
 [inorder BST predecessor and successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)\
 [Floor in a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=0)\
 [Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)
-\
-String\
+
+String
+
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
 [search-suggestion-system](https://leetcode.com/problems/search-suggestions-system/submissions/)\
 [Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/#)
 
-STack and Queue\
+STack and Queue
+
 [Paranthesis check](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)\
 [LRU](https://leetcode.com/problems/lru-cache/)\
 [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)\
 [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
-\
-Graph\
-\
+
+Graph
+
 [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#)\
 [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)\
 [number of provinces](https://leetcode.com/problems/number-of-provinces/)\
@@ -119,8 +124,5 @@ Graph\
 [topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)\
 [Rotting oranges](https://leetcode.com/problems/rotting-oranges/)
 
-\
-Binary Search\
-\
 Dynamic Programming\
 [maximal square](https://leetcode.com/problems/maximal-square/)
