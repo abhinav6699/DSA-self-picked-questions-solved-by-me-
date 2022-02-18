@@ -4,7 +4,7 @@ These are the questions solved just to have some idea about the topics of dsa.
 
 BASIC DSA QUESTIONS-
 
-ARRAY\
+ARRAY
 
 Easy\
 \
@@ -13,16 +13,17 @@ Medium\
 [pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
 [Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)
 \
-Hard\
-2D
-\
-Easy\
-[Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
-\
-Medium\
-\
 Hard
-\
+
+2D
+
+Easy
+[Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+
+Medium
+
+Hard
+
 HASHING\
 [Two SUM](https://leetcode.com/problems/two-sum/)\
 [4 SUM](https://leetcode.com/problems/4sum/)
