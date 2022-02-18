@@ -76,6 +76,7 @@ Binary Trees\
 [left view of binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)\
 [bottom view of binary tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#)\
 [Top view of binary tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)\
+[Reverse level order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#)\
 [Vertical level Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)\
 [Maximum Width](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/)\
 [Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/)\
