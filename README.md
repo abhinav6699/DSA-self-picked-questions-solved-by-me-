@@ -5,7 +5,7 @@ These are the questions solved just to have some idea about the topics of dsa.
 BASIC DSA QUESTIONS-
 
 ARRAY\
-\
+
 Easy\
 \
 Medium\
@@ -15,8 +15,13 @@ Medium\
 \
 Hard\
 2D
-
+\
+Easy\
 [Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+\
+Medium\
+\
+Hard
 \
 HASHING\
 [Two SUM](https://leetcode.com/problems/two-sum/)\
