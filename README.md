@@ -6,40 +6,21 @@ BASIC DSA QUESTIONS-
 
 ARRAY
 
-Easy\
-\
-Medium\
 [Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
 [pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
 [Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)
-\
-Hard
 
 2D
 
-Easy
-
 [Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
-
-Medium
-
-Hard
 
 HASHING
 
-Easy
-
 [Two SUM](https://leetcode.com/problems/two-sum/)\
 [Longest Subarray with sum 0](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#)\
-
-Medium
-
 [4 SUM](https://leetcode.com/problems/4sum/)\
 [Longest Substring without Repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
-
-Hard
-
-[COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
+[COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)
 \
 Linked List\
 [Reverse a linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)\
