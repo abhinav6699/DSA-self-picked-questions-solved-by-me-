@@ -18,19 +18,28 @@ Hard
 2D
 
 Easy
+
 [Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
 Medium
 
 Hard
 
-HASHING\
+HASHING
+
+Easy
+
 [Two SUM](https://leetcode.com/problems/two-sum/)\
-[4 SUM](https://leetcode.com/problems/4sum/)
-[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)\
 [Longest Subarray with sum 0](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#)\
-[COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
+
+Medium
+
+[4 SUM](https://leetcode.com/problems/4sum/)\
 [Longest Substring without Repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
+
+Hard
+
+[COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
 \
 Linked List\
 [Reverse a linked List](https://leetcode.com/problems/reverse-linked-list/submissions/)\
