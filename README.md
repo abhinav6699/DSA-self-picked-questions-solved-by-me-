@@ -8,13 +8,12 @@ ARRAY\
 \
 [Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
 [pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
-[Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)\
-
-
-2D\
+[Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)
 \
-[Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+2D\
 
+[Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+\
 HASHING\
 [Two SUM](https://leetcode.com/problems/two-sum/)\
 [4 SUM](https://leetcode.com/problems/4sum/)
@@ -63,8 +62,7 @@ ReCurSSion\
 [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/)\
 [Basic Calculater](https://leetcode.com/problems/basic-calculator/)\
 [Concaenated words](https://leetcode.com/problems/concatenated-words/)
-
-
+\
 Trees\
 \
 Binary Trees\
@@ -97,8 +95,7 @@ Binary Search Trees\
 [inorder BST predecessor and successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)\
 [Floor in a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=0)\
 [Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)
-
-
+\
 String\
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
@@ -127,10 +124,3 @@ Binary Search\
 \
 Dynamic Programming\
 [maximal square](https://leetcode.com/problems/maximal-square/)
-
-
-
-
-
-
-
