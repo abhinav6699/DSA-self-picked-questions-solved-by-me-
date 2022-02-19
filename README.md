@@ -89,7 +89,8 @@ Trees
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)\
 [Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
 [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)\
-[Flatten Binary Tree](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+[Flatten Binary Tree](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)\
+[maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 (ii)Binary Search Trees\
 
