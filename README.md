@@ -91,7 +91,8 @@ Trees
 [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)\
 [Flatten Binary Tree](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)\
 [maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)\
-[From Inorder and Preorder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)
+[From Inorder and Preorder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)\
+[From Inorder and PostOrder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
 (ii)Binary Search Trees\
 
