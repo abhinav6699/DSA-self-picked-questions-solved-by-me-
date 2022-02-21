@@ -101,7 +101,8 @@ Trees
 [LCA of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)\
 [inorder BST predecessor and successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)\
 [Floor in a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=0)\
-[Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)
+[Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)\
+[construct BST from preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 String
 
