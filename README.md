@@ -104,7 +104,9 @@ Trees
 [Ceil in a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)\
 [construct BST from preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)\
 [Kth Smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)\
-[Kth Largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
+[Kth Largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)\
+[Two Sum in bST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/submissions/)\
+
 
 String
 
