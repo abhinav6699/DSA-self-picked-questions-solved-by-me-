@@ -106,7 +106,7 @@ Trees
 [Kth Smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)\
 [Kth Largest element in BST](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)\
 [Two Sum in bST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/submissions/)\
-
+[Maximum Sum in BST](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 
 String
 
