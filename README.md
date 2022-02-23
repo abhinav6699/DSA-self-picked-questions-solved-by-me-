@@ -21,7 +21,8 @@ HASHING
 [4 SUM](https://leetcode.com/problems/4sum/)\
 [Longest Substring without Repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
 [COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
-[Distinct numbers in N size WIndow](https://www.interviewbit.com/problems/distinct-numbers-in-window/)
+[Distinct numbers in N size WIndow](https://www.interviewbit.com/problems/distinct-numbers-in-window/)\
+[Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 Linked List
 
