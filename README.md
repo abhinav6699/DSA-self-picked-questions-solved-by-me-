@@ -118,7 +118,8 @@ String
 [Robot Bounded in a Circle](https://leetcode.com/problems/robot-bounded-in-circle/submissions/)\
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
 [search-suggestion-system](https://leetcode.com/problems/search-suggestions-system/submissions/)\
-[Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/#)
+[Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/#)\
+[Rearrangement of string](https://leetcode.com/problems/reorganize-string/)
 
 STack and Queue
 
