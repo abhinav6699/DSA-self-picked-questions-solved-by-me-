@@ -9,7 +9,6 @@ ARRAY
 [Maximum area of a piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)\
 [pairs of songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)\
 [Self diminishing valued colored balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/)\
-[Find nth number having prime factors only 2,3,5](https://leetcode.com/problems/ugly-number-ii/)
 
 2D
 
@@ -23,9 +22,15 @@ HASHING
 [Longest Substring without Repeating character](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
 [COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
 [Distinct numbers in N size WIndow](https://www.interviewbit.com/problems/distinct-numbers-in-window/)\
+
+HEAP
+
 [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)\
 [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)\
-[Frequence sorting](https://leetcode.com/problems/sort-characters-by-frequency/)
+[Frequence sorting](https://leetcode.com/problems/sort-characters-by-frequency/)\
+[Rearrangement of string](https://leetcode.com/problems/reorganize-string/)\
+[Find nth number having prime factors only 2,3,5](https://leetcode.com/problems/ugly-number-ii/)\
+[merge k sorted arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#)
 
 Linked List
 
