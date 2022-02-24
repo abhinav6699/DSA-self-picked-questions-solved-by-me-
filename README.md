@@ -24,7 +24,8 @@ HASHING
 [COunt the Number of Subarray having given XOR](https://www.geeksforgeeks.org/count-number-subarrays-given-xor/)\
 [Distinct numbers in N size WIndow](https://www.interviewbit.com/problems/distinct-numbers-in-window/)\
 [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)\
-[Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
+[Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)\
+[Frequence sorting](https://leetcode.com/problems/sort-characters-by-frequency/)
 
 Linked List
 
