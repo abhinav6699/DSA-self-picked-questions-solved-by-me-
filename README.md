@@ -30,7 +30,8 @@ HEAP
 [Frequence sorting](https://leetcode.com/problems/sort-characters-by-frequency/)\
 [Rearrangement of string](https://leetcode.com/problems/reorganize-string/)\
 [Find nth number having prime factors only 2,3,5](https://leetcode.com/problems/ugly-number-ii/)\
-[merge k sorted arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#)
+[merge k sorted arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#)\
+[merge two binary max heap](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1#)
 
 Linked List
 
