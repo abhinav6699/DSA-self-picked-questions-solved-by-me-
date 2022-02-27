@@ -33,7 +33,8 @@ HEAP
 [merge k sorted arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1#)\
 [merge two binary max heap](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1#)\
 [Valid complete binary tree heap or not](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1#)\
-[minimum cost of joining ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)
+[minimum cost of joining ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)\
+[smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1)
 
 Linked List
 
