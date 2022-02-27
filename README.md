@@ -127,7 +127,8 @@ String
 [Reorder Data log Files](https://leetcode.com/problems/reorder-data-in-log-files/submissions/)\
 [search-suggestion-system](https://leetcode.com/problems/search-suggestions-system/submissions/)\
 [Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/#)\
-[Rearrangement of string](https://leetcode.com/problems/reorganize-string/)
+[Rearrangement of string](https://leetcode.com/problems/reorganize-string/)\
+[Minimum Sum](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1#)
 
 STack and Queue
 
