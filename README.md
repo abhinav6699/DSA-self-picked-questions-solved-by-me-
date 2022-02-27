@@ -149,7 +149,8 @@ Graph
 [Detect a cycle in directed graph using bfs and dfs](https://leetcode.com/problems/course-schedule/)\
 [topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)\
 [Rotting oranges](https://leetcode.com/problems/rotting-oranges/)\
-[Clone Graph using BFS and DFS](https://leetcode.com/problems/clone-graph/)
+[Clone Graph using BFS and DFS](https://leetcode.com/problems/clone-graph/)\
+[Rat in a maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
 
 Dynamic Programming\
 [maximal square](https://leetcode.com/problems/maximal-square/)
