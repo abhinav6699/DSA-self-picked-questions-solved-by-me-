@@ -150,7 +150,10 @@ Graph
 [topological sort in DFS and BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1#)\
 [Rotting oranges](https://leetcode.com/problems/rotting-oranges/)\
 [Clone Graph using BFS and DFS](https://leetcode.com/problems/clone-graph/)\
-[Rat in a maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
+[Rat in a maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)\
+[Dijkstra adlgorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)\
+[Go through Kosaraju algorithm for finding Strongky Connected Components in Graph](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on)
+
 
 Dynamic Programming\
 [maximal square](https://leetcode.com/problems/maximal-square/)
