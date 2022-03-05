@@ -153,7 +153,7 @@ Graph
 [Rat in a maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)\
 [Dijkstra adlgorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)\
 [Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU#)\
-[Go through Kosaraju algorithm for finding Strongky Connected Components in Graph](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on)
+[Go through Kosaraju algorithm for finding Strongky Connected Components in Graph](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on)\
 [Floyed Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#)
 
 
