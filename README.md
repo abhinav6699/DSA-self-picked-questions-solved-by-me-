@@ -87,6 +87,7 @@ Trees
 [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/)\
 [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)\
 [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/)\
+[Diagonal Traversal](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)\
 [populating next right pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)\
 [binary tree BFS or level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)\
 [left view of binary tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)\
