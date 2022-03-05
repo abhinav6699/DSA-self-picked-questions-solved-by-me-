@@ -154,7 +154,8 @@ Graph
 [Dijkstra adlgorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)\
 [Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU#)\
 [Go through Kosaraju algorithm for finding Strongky Connected Components in Graph](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on)\
-[Floyed Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#)
+[Floyed Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#)\
+[Prim's Algorithm for Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#)
 
 
 Dynamic Programming\
