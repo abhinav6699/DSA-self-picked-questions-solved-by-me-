@@ -106,6 +106,7 @@ Trees
 [Mirroring of tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)\
 [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)\
 [Flatten Binary Tree](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)\
+[Binary Tree to Doubly Linked List](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)\
 [maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)\
 [From Inorder and Preorder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)\
 [From Inorder and PostOrder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
