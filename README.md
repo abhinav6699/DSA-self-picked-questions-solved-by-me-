@@ -110,7 +110,8 @@ Trees
 [maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)\
 [From Inorder and Preorder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)\
 [From Inorder and PostOrder to Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)\
-[Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)
+[Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)\
+[Distance between two Nodes](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1#)
 
 (ii)Binary Search Trees\
 
